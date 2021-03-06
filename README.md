@@ -1,1 +1,1 @@
-# NTU_ML2021_Hung-yi-Lee_HW
+# NTU Machine Learning 2021 Hung yi Lee Homework writeup
