@@ -1,6 +1,4 @@
-# NTU Machine Learning 2021 (Spring) Hung-yi Lee Homework writeup
-This repository contains 15 homeworks of Machine Learning course of National Taiwan University (NTU).
-
+# NTU Machine Learning 2021 (Spring) Homework writeup
 Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
 
 ## Outline
