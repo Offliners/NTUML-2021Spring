@@ -13,4 +13,4 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |4|Self-Attention|[Link](HW4/HW04.pdf)|[Phoneme classification](HW4/homework4.ipnb)|
 
 ## Reference
-TA github : https://github.com/ga642381/ML2021-Spring
+TA's github : https://github.com/ga642381/ML2021-Spring
