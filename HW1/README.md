@@ -2,4 +2,4 @@
 
 Detail : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/hw/HW01/HW01.pdf)
 
-[code](homework1.ipynb)
+Code : [Link](homework1.ipynb)
