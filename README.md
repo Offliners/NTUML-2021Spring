@@ -6,4 +6,4 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 * Homework 2-1 - `Classification` : [Phoneme Classification](HW2/README2_1.md)
 * Homework 2-2 - `Math` : [Hessian Matrix](HW2/README2_2.md)
 * Homework 3 - `CNN` : [Image Classification](HW3/README.md)
-* Homework 4 - `Self-Attention` : [Phoneme classification]
+* Homework 4 - `Self-Attention` : [Phoneme classification](HW4/README.md)
