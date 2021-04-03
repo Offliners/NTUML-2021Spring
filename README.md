@@ -12,5 +12,12 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |3|CNN|[Link](HW3/HW03.pdf)|[Image Classification](HW3/homework3.ipynb)|||
 |4|Self-Attention|[Link](HW4/HW04.pdf)|[Phoneme classification](HW4/homework4.ipnb)|||
 
+## Note
+|Week|Topic|Link|
+|-|-|-|
+|1|Introduction of ML/DL|[Link](https://offliners.github.io/post/ntuml-week1/)|
+|2|Guideline of ML: overfit|[Link](https://offliners.github.io/post/ntuml-week2-1/)|
+|2|Critical Point: small gradient|[Link]()|
+
 ## Reference
 TA's github : https://github.com/ga642381/ML2021-Spring
