@@ -16,8 +16,9 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |Week|Topic|Link|
 |-|-|-|
 |1|Introduction of ML/DL|[Link](https://offliners.github.io/post/ntuml-week1/)|
-|2|Guideline of ML: overfit|[Link](https://offliners.github.io/post/ntuml-week2-1/)|
-|2|Critical Point: small gradient|[Link]()|
+|2|General Guidance|[Link](https://offliners.github.io/post/ntuml-week2-1/)|
+|2|When Gradient Is Small: Local Minimum and Saddle Point|[Link]()|
+|2|Tips for Training: Batch and Momentum|[Link()]|
 
 ## Reference
 TA's github : https://github.com/ga642381/ML2021-Spring
