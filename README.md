@@ -18,7 +18,9 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |1|Introduction of ML/DL|[Link](https://offliners.github.io/post/ntuml-week1/)|
 |2|General Guidance|[Link](https://offliners.github.io/post/ntuml-week2-1/)|
 |2|When Gradient Is Small: Local Minimum and Saddle Point|[Link](https://offliners.github.io/post/ntuml-week2-2/)|
-|2|Tips for Training: Batch and Momentum|[Link]()|
+|2|Tips for Training: Batch and Momentum|[Link](https://offliners.github.io/post/ntuml-week2-3/)|
+|3|Tips for Training: Adaptive Learning Rate|[Link](https://offliners.github.io/post/ntuml-week3-1/)|
+|3|Loss Function: Classification|[Link](https://offliners.github.io/post/ntuml-week3-2/)|
 
 ## Reference
 TA's github : https://github.com/ga642381/ML2021-Spring
