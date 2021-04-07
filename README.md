@@ -24,3 +24,4 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 
 ## Reference
 TA's github : https://github.com/ga642381/ML2021-Spring
+Pytorch Documentation : https://pytorch.org/docs/stable/index.html
