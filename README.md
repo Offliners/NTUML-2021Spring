@@ -23,5 +23,5 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |3|Loss Function: Classification|[Link](https://offliners.github.io/post/ntuml-week3-2/)|
 
 ## Reference
-TA's github : https://github.com/ga642381/ML2021-Spring
-Pytorch Documentation : https://pytorch.org/docs/stable/index.html
+* TA's github : https://github.com/ga642381/ML2021-Spring
+* Pytorch Documentation : https://pytorch.org/docs/stable/index.html
