@@ -24,6 +24,7 @@ Just record my best model
 |2|Tips for Training: Batch and Momentum|[Link](https://offliners.github.io/post/ntuml-week2-3/)|
 |3|Tips for Training: Adaptive Learning Rate|[Link](https://offliners.github.io/post/ntuml-week3-1/)|
 |3|Loss Function: Classification|[Link](https://offliners.github.io/post/ntuml-week3-2/)|
+|3|CNN|[Link](https://offliners.github.io/post/ntuml-week3-3/)|
 
 ## Reference
 * TA's github : https://github.com/ga642381/ML2021-Spring
