@@ -29,6 +29,16 @@ Just record my best model
 |5|Self-Attention|[Link](https://offliners.github.io/post/ntuml-week5-1/)|
 |5|Normalization||
 
+## Useful Tips for Colab
+Prevent Google Colab from disconnecting
+```javascript
+function ClickConnect(){
+    console.log("Clicked on connect button"); 
+    document.querySelector("colab-connect-button").click()
+}
+setInterval(ClickConnect,60000)
+```
+
 ## Reference
 * TA's github : https://github.com/ga642381/ML2021-Spring
 * Pytorch documentation : https://pytorch.org/docs/stable/index.html
