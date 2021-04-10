@@ -26,7 +26,7 @@ Just record my best model
 |3|Loss Function: Classification|[Link](https://offliners.github.io/post/ntuml-week3-2/)|
 |3|CNN|[Link](https://offliners.github.io/post/ntuml-week3-3/)|
 |4|PAC Learning||
-|5|Self-Attention||
+|5|Self-Attention|[Link](https://offliners.github.io/post/ntuml-week5-1/)|
 |5|Normalization||
 
 ## Reference
