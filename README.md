@@ -27,7 +27,7 @@ Just record my best model
 |3|CNN|[Link](https://offliners.github.io/post/ntuml-week3-3/)|
 |4|PAC Learning||
 |5|Self-Attention|[Link](https://offliners.github.io/post/ntuml-week5-1/)|
-|5|Normalization||
+|5|Normalization|[Link](https://offliners.github.io/post/ntuml-week5-2/)|
 
 ## Useful Tips for Colab
 Prevent Google Colab from disconnecting
