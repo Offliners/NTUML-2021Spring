@@ -12,7 +12,7 @@ Just record my best model
 |2|Classification|[Link](HW2/HW02.pdf)|[Phoneme Classification](HW2/homework2_1.ipynb)|`0.75171`|`0.74957`|
 |2|Linear Algebra|[Link](HW2/HW02.pdf)|[Hessian Matrix](HW2/homework2_2.ipynb)|x|x|
 |3|CNN|[Link](HW3/HW03.pdf)|[Image Classification](HW3/homework3.ipynb)|`0.73775`||
-|4|Self-Attention|[Link](HW4/HW04.pdf)|[Phoneme classification](HW4/homework4.ipynb)|`0.85547`||
+|4|Self-Attention|[Link](HW4/HW04.pdf)|[Phoneme classification](HW4/homework4.ipynb)|`0.90880`||
 |5|Transformer|[Link](HW5/HW05.pdf)|[Machine Translation](HW5/homework5.ipynb)|`18.40`||
 
 ## Note
