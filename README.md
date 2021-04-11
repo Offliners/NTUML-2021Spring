@@ -30,7 +30,7 @@ Just record my best model
 |5|Normalization|[Link](https://offliners.github.io/post/ntuml-week5-2/)|
 
 ## Useful Tips for Colab
-Prevent Google Colab from disconnecting
+* Prevent Google Colab from disconnecting(2021/04/10)
 
 Press `F12`，and enter this code in console，then press `enter`
 ```javascript
