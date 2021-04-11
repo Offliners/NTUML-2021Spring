@@ -31,6 +31,8 @@ Just record my best model
 
 ## Useful Tips for Colab
 Prevent Google Colab from disconnecting
+
+Press `F12`，and enter this code in console，then press `enter`
 ```javascript
 function ClickConnect(){
     console.log("Clicked on connect button"); 
