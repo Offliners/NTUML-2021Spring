@@ -43,6 +43,7 @@ setInterval(ClickConnect, 60000)
 ```
 
 * Auto save output file
+insert code cell at the bottom
 ```python
 from google.colab import files
 files.download("output_file.csv")
