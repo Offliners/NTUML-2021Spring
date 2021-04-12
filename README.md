@@ -42,6 +42,11 @@ function ClickConnect(){
 setInterval(ClickConnect, 60000)
 ```
 
+* Auto save output file
+```python
+from google.colab import files
+files.download("output_file.csv")
+```
 ## Reference
 * TA's github : https://github.com/ga642381/ML2021-Spring
 * Pytorch documentation : https://pytorch.org/docs/stable/index.html
