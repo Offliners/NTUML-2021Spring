@@ -48,6 +48,12 @@ insert code cell at the bottom
 from google.colab import files
 files.download("output_file.csv")
 ```
+
+* Display information of GPU
+insert code cell to check which GPU is assigned
+```shell
+!nvidia-smi
+```
 ## Reference
 * TA's github : https://github.com/ga642381/ML2021-Spring
 * Pytorch documentation : https://pytorch.org/docs/stable/index.html
