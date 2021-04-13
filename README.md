@@ -1,4 +1,4 @@
-![cover]()
+![cover](https://github.com/Offliners/ML-writeup/blob/main/cover.png)
 
 Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
 
@@ -31,8 +31,7 @@ Just record my best model
 |5|Normalization|[Link](https://offliners.github.io/post/ntuml-week5-2/)|
 
 ## Useful Tips for Google Colab
-* Prevent Google Colab from disconnecting(2021/04/10)
-
+#### Prevent Google Colab from disconnecting(2021/04/10)
 Press `F12`，and enter this code in console，then press `enter`
 ```javascript
 function ClickConnect(){
@@ -43,15 +42,14 @@ function ClickConnect(){
 setInterval(ClickConnect, 60000)
 ```
 
-* Auto save output file
-
+#### Auto save output file
 insert code cell at the bottom
 ```python
 from google.colab import files
 files.download("output_file.csv")
 ```
 
-* Display information of GPU
+#### Display information of GPU
 insert code cell to check which GPU is assigned
 ```shell
 !nvidia-smi
