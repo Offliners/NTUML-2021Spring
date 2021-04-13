@@ -1,4 +1,5 @@
-# NTU Machine Learning 2021 (Spring) Homework writeup
+![cover]()
+
 Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
 
 Just record my best model
@@ -43,6 +44,7 @@ setInterval(ClickConnect, 60000)
 ```
 
 * Auto save output file
+
 insert code cell at the bottom
 ```python
 from google.colab import files
