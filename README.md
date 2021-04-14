@@ -26,7 +26,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |3|Tips for Training: Adaptive Learning Rate|[Link](https://offliners.github.io/post/ntuml-week3-1/)|
 |3|Loss Function: Classification|[Link](https://offliners.github.io/post/ntuml-week3-2/)|
 |3|CNN|[Link](https://offliners.github.io/post/ntuml-week3-3/)|
-|4|PAC Learning||
+|4|PAC Learning|`TBD`|
 |5|Self-Attention|[Link](https://offliners.github.io/post/ntuml-week5-1/)|
 |5|Normalization|[Link](https://offliners.github.io/post/ntuml-week5-2/)|
 |6|Qingming Festival|x|
