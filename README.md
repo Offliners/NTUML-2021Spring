@@ -31,6 +31,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |5|Normalization|[Link](https://offliners.github.io/post/ntuml-week5-2/)|
 |6|Qingming Festival|x|
 |7|Transformer|[Link](https://offliners.github.io/post/ntuml-week7-1/)|
+|7|GAN|[Link](https://offliners.github.io/post/ntuml-week7-2/)|
 
 ## Useful Tips for Google Colab
 #### Prevent Google Colab from disconnecting(2021/04/10)
