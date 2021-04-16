@@ -15,6 +15,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |3|CNN|[Link](HW3/HW03.pdf)|[Image Classification](HW3/homework3.ipynb)|`0.77956`||
 |4|Self-Attention|[Link](HW4/HW04.pdf)|[Phoneme classification](HW4/homework4.ipynb)|`0.95928`||
 |5|Transformer|[Link](HW5/HW05.pdf)|[Machine Translation](HW5/homework5.ipynb)|`23.89`||
+|6|GAN|[Link](HW6/HW06.pdf)|[Machine Translation](HW6/homework6.ipynb)|`23.89`||
 
 ## Note
 |Week|Topic|Link|
