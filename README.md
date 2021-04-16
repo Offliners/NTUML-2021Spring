@@ -35,7 +35,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |7|GAN|[Link](https://offliners.github.io/post/ntuml-week7-2/)|
 
 ## Useful Tips for Google Colab
-#### Prevent Google Colab from disconnecting(2021/04/10)
+#### Prevent Google Colab from disconnecting (2021/04/10)
 Press `F12`，and enter this code in console，then press `enter`
 ```javascript
 function ClickConnect(){
@@ -50,7 +50,7 @@ setInterval(ClickConnect, 60000)
 insert code cell at the bottom
 ```python
 from google.colab import files
-files.download("output_file.csv")
+files.download("output_file.csv")  # "output_file.csv" must be your output file name
 ```
 
 #### Display information of GPU
