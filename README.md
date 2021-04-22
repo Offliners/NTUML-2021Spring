@@ -59,7 +59,7 @@ insert code cell to check which GPU is assigned
 ```shell
 !nvidia-smi
 ```
-### "Sorry, something went wrong. Reload?" when viewing *.ipynb
+### "Sorry, something went wrong. Reload?" when viewing *.ipynb on Github
 Copy the URL to https://nbviewer.jupyter.org/
 
 ## Reference
