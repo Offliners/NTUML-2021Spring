@@ -36,7 +36,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |8|BERT|[Link](https://offliners.github.io/post/ntuml-week8/)|
 
 ## Useful Tips for Google Colab
-#### Prevent Google Colab from disconnecting (2021/04/10)
+* ### Prevent Google Colab from disconnecting (2021/04/10)
 Press `F12`，and enter this code in console，then press `enter`
 ```javascript
 function ClickConnect(){
@@ -47,18 +47,21 @@ function ClickConnect(){
 setInterval(ClickConnect, 60000)
 ```
 
-#### Auto save output file
+* ### Auto save output file
 insert code cell at the bottom
 ```python
 from google.colab import files
 files.download("output_file.csv")  # "output_file.csv" must be your output file name
 ```
 
-#### Display information of GPU
+* ### Display information of GPU
 insert code cell to check which GPU is assigned
 ```shell
 !nvidia-smi
 ```
+## "Sorry, something went wrong. Reload?" when viewing *.ipynb
+Copy the URL to https://nbviewer.jupyter.org/
+
 ## Reference
 * TA's github : https://github.com/ga642381/ML2021-Spring
 * Pytorch documentation : https://pytorch.org/docs/stable/index.html
