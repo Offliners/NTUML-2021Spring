@@ -39,7 +39,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |7|GAN|[Link](https://offliners.github.io/post/ntuml-week7-2/)|
 |8|BERT|[Link](https://offliners.github.io/post/ntuml-week8/)|
 |9|Midexam|x|
-|10|Auto-Encoder|[Link](https://offliners.github.io/post/ntuml-week9/)|
+|10|Auto-Encoder|[Link](https://offliners.github.io/post/ntuml-week10/)|
 
 ## Useful Tips
 ### Prevent Google Colab from disconnecting (2021/04/10)
