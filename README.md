@@ -40,9 +40,9 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |8|BERT|[Link](https://offliners.github.io/post/ntuml-week8/)|
 |9|Midexam|x|
 |10|Auto-Encoder|[Link](https://offliners.github.io/post/ntuml-week10/)|
-|11|Explainable AI|[Link](https://offliners.github.io/post/ntuml-week11/)|
 |11|Adversarial Attack|[Link](https://offliners.github.io/post/ntuml-week11/)|
 |12|Domain Adaptation|`TBD`|
+|13|Explainable AI|[Link](https://offliners.github.io/post/ntuml-week13/)|
 
 ## Useful Tips
 ### Prevent Google Colab from disconnecting (2021/04/10)
