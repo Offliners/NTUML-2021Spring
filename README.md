@@ -74,4 +74,3 @@ Copy the URL to https://nbviewer.jupyter.org/
 ## Reference
 * TA's github : https://github.com/ga642381/ML2021-Spring
 * Pytorch documentation : https://pytorch.org/docs/stable/index.html
-* Scikit-learn tutorial : https://scikit-learn.org/stable/getting_started.html
