@@ -17,7 +17,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |5|Transformer|[Link](HW5/HW05.pdf)|[Machine Translation](HW5/homework5.ipynb)|`26.44`|`25.54`|8|
 |6|GAN|[Link](HW6/HW06.pdf)|[Anime Face Generation](HW6/homework6.ipynb)|`0.710`, `7716.47`|`0.710`, `7716.47`|10+0.5([report](HW6/hw6_report.pdf))|
 |7|BERT|[Link](HW7/HW07.pdf)|[Question Answering](HW7/homework7.ipynb)|`0.81178`|`0.81833`|9|
-|8|Anomaly Detection|[Link](HW8/HW08.pdf)|[Anomaly Detection](HW8/homework8.ipynb)|`0.89049`|||
+|8|Anomaly Detection|[Link](HW8/HW08.pdf)|[Anomaly Detection](HW8/homework8.ipynb)|`0.89049`|`0.88126`|10+0.5(HW8/hw8_report.pdf)|
 |9|Explainable AI|[Link](HW9/HW09.pdf)|[Explainable AI](HW9/homework9.ipynb)|x|x||
 |10|Attack|[Link](HW10/HW10.pdf)|[Adversarial Attack](HW10/homework10.ipynb)|`0.34`|||
 |11|Adaptation|[Link](HW11/HW11.pdf)|[Domain Adaptation](HW11/homework11.ipynb)||||
