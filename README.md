@@ -20,7 +20,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |8|Anomaly Detection|[Link](HW8/HW08.pdf)|[Anomaly Detection](HW8/homework8.ipynb)|`0.89049`|`0.88126`|10+0.5([report](HW8/hw8_report.pdf))|
 |9|Explainable AI|[Link](HW9/HW09.pdf)|[Explainable AI](HW9/homework9.ipynb)|x|x||
 |10|Attack|[Link](HW10/HW10.pdf)|[Adversarial Attack](HW10/homework10.ipynb)|`0.34`|||
-|11|Adaptation|[Link](HW11/HW11.pdf)|[Domain Adaptation](HW11/homework11.ipynb)||||
+|11|Adaptation|[Link](HW11/HW11.pdf)|[Domain Adaptation](HW11/homework11.ipynb)|`0.63400`|||
 
 ## Note
 |Week|Topic|Link|
