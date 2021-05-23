@@ -72,6 +72,9 @@ insert code cell to check which GPU is assigned
 ### "Sorry, something went wrong. Reload?" when viewing *.ipynb on Github
 Copy the URL to https://nbviewer.jupyter.org/
 
+## My Ability
+![My Ability]()
+
 ## Reference
 * TA's github : https://github.com/ga642381/ML2021-Spring
 * Pytorch documentation : https://pytorch.org/docs/stable/index.html
