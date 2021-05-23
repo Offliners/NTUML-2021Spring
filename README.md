@@ -1,4 +1,4 @@
-![cover](https://github.com/Offliners/ML-writeup/blob/main/cover.png)
+![cover](https://github.com/Offliners/OFF/blob/main/cover.png)
 
 Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
 
@@ -73,7 +73,7 @@ insert code cell to check which GPU is assigned
 Copy the URL to https://nbviewer.jupyter.org/
 
 ## My Ability
-![My Ability]()
+![My Ability](https://github.com/Offliners/OFF/blob/main/myAbility.JPG)
 
 ## Reference
 * TA's github : https://github.com/ga642381/ML2021-Spring
