@@ -47,6 +47,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |13|Explainable AI|[Link](https://offliners.github.io/post/ntuml-week13/)|
 |14|Domain Adaptation|[Link](https://offliners.github.io/post/ntuml-week14-1/)|
 |15|Quantum Machine Learning|`TBD`|
+|16|Reinforcement Learning|[Link](https://offliners.github.io/post/ntuml-week16/)|
 
 ## Useful Tips
 ### Prevent Google Colab from disconnecting (valid utill 2021/05/22)
