@@ -42,15 +42,6 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |6|Qingming Festival|x|17|Network Compression|[Link](https://offliners.github.io/post/ntuml-week17-2/)|
 |7|Transformer|[Link](https://offliners.github.io/post/ntuml-week7-1/)|18|Meta Learning|[Link](https://offliners.github.io/post/ntuml-week18/)|
 |7|GAN|[Link](https://offliners.github.io/post/ntuml-week7-2/)|-|-|-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
 
 ## Useful Tips
 ### Prevent Google Colab from disconnecting (valid utill 2021/05/22)
