@@ -27,30 +27,30 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |15|Meta Learning|[Link](HW15/HW15.pdf)|[TBD](HW15/homework15.ipynb)||||
 
 ## Note
-|Week|Topic|Link|
-|-|-|-|
-|1|Introduction of ML/DL|[Link](https://offliners.github.io/post/ntuml-week1/)|
-|2|General Guidance|[Link](https://offliners.github.io/post/ntuml-week2-1/)|
-|2|When Gradient Is Small: Local Minimum and Saddle Point|[Link](https://offliners.github.io/post/ntuml-week2-2/)|
-|2|Tips for Training: Batch and Momentum|[Link](https://offliners.github.io/post/ntuml-week2-3/)|
-|3|Tips for Training: Adaptive Learning Rate|[Link](https://offliners.github.io/post/ntuml-week3-1/)|
-|3|Loss Function: Classification|[Link](https://offliners.github.io/post/ntuml-week3-2/)|
-|3|CNN|[Link](https://offliners.github.io/post/ntuml-week3-3/)|
-|4|PAC Learning|`TBD`|
-|5|Self-Attention|[Link](https://offliners.github.io/post/ntuml-week5-1/)|
-|5|Normalization|[Link](https://offliners.github.io/post/ntuml-week5-2/)|
-|6|Qingming Festival|x|
-|7|Transformer|[Link](https://offliners.github.io/post/ntuml-week7-1/)|
-|7|GAN|[Link](https://offliners.github.io/post/ntuml-week7-2/)|
-|8|BERT|[Link](https://offliners.github.io/post/ntuml-week8/)|
-|9|Midexam|x|
-|10|Auto-Encoder|[Link](https://offliners.github.io/post/ntuml-week10/)|
-|11|Adversarial Attack|[Link](https://offliners.github.io/post/ntuml-week11/)|
-|12|Machine Learning and Privacy|`TBD`|
-|13|Explainable AI|[Link](https://offliners.github.io/post/ntuml-week13/)|
-|14|Domain Adaptation|[Link](https://offliners.github.io/post/ntuml-week14/)|
-|15|Quantum Machine Learning|`TBD`|
-|16|Reinforcement Learning|[Link](https://offliners.github.io/post/ntuml-week16/)|
+|Week|Topic|Link|Week|Topic|Link|
+|-|-|-|-|-|-|
+|1|Introduction of ML/DL|[Link](https://offliners.github.io/post/ntuml-week1/)|8|BERT|[Link](https://offliners.github.io/post/ntuml-week8/)|
+|2|General Guidance|[Link](https://offliners.github.io/post/ntuml-week2-1/)|9|Midexam|x|
+|2|When Gradient Is Small: Local Minimum and Saddle Point|[Link](https://offliners.github.io/post/ntuml-week2-2/)|10|Auto-Encoder|[Link](https://offliners.github.io/post/ntuml-week10/)|
+|2|Tips for Training: Batch and Momentum|[Link](https://offliners.github.io/post/ntuml-week2-3/)|11|Adversarial Attack|[Link](https://offliners.github.io/post/ntuml-week11/)|
+|3|Tips for Training: Adaptive Learning Rate|[Link](https://offliners.github.io/post/ntuml-week3-1/)|12|Machine Learning and Privacy|`TBD`|
+|3|Loss Function: Classification|[Link](https://offliners.github.io/post/ntuml-week3-2/)|13|Explainable AI|[Link](https://offliners.github.io/post/ntuml-week13/)|
+|3|CNN|[Link](https://offliners.github.io/post/ntuml-week3-3/)|14|Domain Adaptation|[Link](https://offliners.github.io/post/ntuml-week14/)|
+|4|PAC Learning|`TBD`|15|Quantum Machine Learning|`TBD`|
+|5|Self-Attention|[Link](https://offliners.github.io/post/ntuml-week5-1/)|16|Reinforcement Learning|[Link](https://offliners.github.io/post/ntuml-week16/)|
+|5|Normalization|[Link](https://offliners.github.io/post/ntuml-week5-2/)|17|Life-long Learning|[Link](https://offliners.github.io/post/ntuml-week17-1/)|
+|6|Qingming Festival|x|17|Network Compression|[Link](https://offliners.github.io/post/ntuml-week17-2/)|
+|7|Transformer|[Link](https://offliners.github.io/post/ntuml-week7-1/)|18|Meta Learning|[Link](https://offliners.github.io/post/ntuml-week18/)|
+|7|GAN|[Link](https://offliners.github.io/post/ntuml-week7-2/)|-|-|-|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 
 ## Useful Tips
 ### Prevent Google Colab from disconnecting (valid utill 2021/05/22)
