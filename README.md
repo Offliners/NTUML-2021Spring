@@ -71,13 +71,19 @@ insert code cell to check which GPU is assigned
 Copy the URL to https://nbviewer.jupyter.org/
 
 ## Student Source
-![StudentSource](https://github.com/Offliners/OFF/blob/main/StudentSource.jpg)
+<p align="center">
+<img src="https://github.com/Offliners/OFF/blob/main/StudentSource.jpg" alt="Student Source">
+</p>
 
 ## Homework Participation
-![ClassParticipation](https://github.com/Offliners/OFF/blob/main/ClassParticipation.JPG)
+<p align="center">
+<img src="https://github.com/Offliners/OFF/blob/main/ClassParticipation.JPG" alt="Class Participation">
+</p>
 
-## My Performance
-![My Ability](https://github.com/Offliners/OFF/blob/main/myAbility.JPG)
+## 
+<p align="center">
+<img src="https://github.com/Offliners/OFF/blob/main/myAbility.JPG" alt="My Performance">
+</p>
 
 ## Reference
 * TA's github : https://github.com/ga642381/ML2021-Spring
