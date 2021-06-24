@@ -70,6 +70,9 @@ insert code cell to check which GPU is assigned
 ### "Sorry, something went wrong. Reload?" when viewing *.ipynb on Github
 Copy the URL to https://nbviewer.jupyter.org/
 
+## Student Source
+![StudentSource](https://github.com/Offliners/OFF/blob/main/StudentSource.JPG)
+
 ## My Performance
 ![My Ability](https://github.com/Offliners/OFF/blob/main/myAbility.JPG)
 
