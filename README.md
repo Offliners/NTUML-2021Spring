@@ -73,6 +73,9 @@ Copy the URL to https://nbviewer.jupyter.org/
 ## My Performance
 ![My Ability](https://github.com/Offliners/OFF/blob/main/myAbility.JPG)
 
+## Class Participation
+![ClassParticipation](https://github.com/Offliners/OFF/blob/main/ClassParticipation.JPG)
+
 ## Reference
 * TA's github : https://github.com/ga642381/ML2021-Spring
 * Pytorch documentation : https://pytorch.org/docs/stable/index.html
