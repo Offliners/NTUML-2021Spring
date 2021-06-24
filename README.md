@@ -80,7 +80,7 @@ Copy the URL to https://nbviewer.jupyter.org/
 <img src="https://github.com/Offliners/OFF/blob/main/ClassParticipation.JPG" alt="Class Participation">
 </p>
 
-## 
+## My Performance
 <p align="center">
 <img src="https://github.com/Offliners/OFF/blob/main/myAbility.JPG" alt="My Performance">
 </p>
