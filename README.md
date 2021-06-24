@@ -71,7 +71,7 @@ insert code cell to check which GPU is assigned
 Copy the URL to https://nbviewer.jupyter.org/
 
 ## Student Source
-![StudentSource](https://github.com/Offliners/OFF/blob/main/StudentSource.)
+![StudentSource](https://github.com/Offliners/OFF/blob/main/StudentSource.jpg)
 
 ## Homework Participation
 ![ClassParticipation](https://github.com/Offliners/OFF/blob/main/ClassParticipation.JPG)
