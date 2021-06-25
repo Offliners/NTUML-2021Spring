@@ -44,7 +44,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |7|GAN|[Link](https://offliners.github.io/post/ntuml-week7-2/)|-|-|-|
 
 ## Useful Tips
-### Prevent Google Colab from disconnecting (valid utill 2021/05/22)
+### Prevent Google Colab from disconnecting (valid utill 2021/06/25)
 Press `F12`，and enter this code in console，then press `enter`
 ```javascript
 function ClickConnect(){
