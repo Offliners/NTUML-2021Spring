@@ -22,7 +22,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |10|Attack|[Link](HW10/HW10.pdf)|[Adversarial Attack](HW10/homework10.ipynb)|`0.000`|`0.010`|10+0.5([report](HW10/hw10_report.pdf))|
 |11|Adaptation|[Link](HW11/HW11.pdf)|[Domain Adaptation](HW11/homework11.ipynb)|`0.81598`|`0.81690`|10+0.5([report](HW11/hw11_report.pdf))|
 |12|RL|[Link](HW12/HW12.pdf)|[Reinforcement Learning](HW12/homework12.ipynb)|`280`|`280`|10+0.5([report](HW12/hw12_report.pdf))|
-|13|Compression|[Link](HW13/HW13.pdf)|[Food Classification](HW13/homework13.ipynb)|`0.80167`|`0.81350`|`9.75`|
+|13|Compression|[Link](HW13/HW13.pdf)|[Food Classification](HW13/homework13.ipynb)|`0.80167`|`0.81350`|9.5|
 |14|Life-Long Learning|[Link](HW14/HW14.pdf)|[Permuted MNIST](HW14/homework14.ipynb)||||
 |15|Meta Learning|[Link](HW15/HW15.pdf)|[TBD](HW15/homework15.ipynb)||||
 
