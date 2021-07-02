@@ -77,7 +77,7 @@ Copy the URL to https://nbviewer.jupyter.org/
 
 ## Homework Participation
 <p align="center">
-<img src="https://github.com/Offliners/OFF/blob/main/ClassParticipation.PNG" alt="Class Participation">
+<img src="https://github.com/Offliners/OFF/blob/main/ClassParticipation.JPG" alt="Class Participation">
 </p>
 
 ## My Performance
