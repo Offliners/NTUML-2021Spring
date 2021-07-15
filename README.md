@@ -2,8 +2,6 @@
 
 Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
 
-`This repository just record my best model`
-
 ## Outline
 |#|Homework|Slide|Code|Public score|Private Score|Score|
 |-|-|-|-|-|-|-|
