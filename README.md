@@ -22,7 +22,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |12|RL|[Link](HW12/HW12.pdf)|[Reinforcement Learning](HW12/homework12.ipynb)|`280`|`280`|10+0.5([report](HW12/hw12_report.pdf))|
 |13|Compression|[Link](HW13/HW13.pdf)|[Food Classification](HW13/homework13.ipynb)|`0.80167`|`0.81350`|9.5|
 |14|Life-Long Learning|[Link](HW14/HW14.pdf)|[Permuted MNIST](HW14/homework14.ipynb)|x|x|8.8|
-|15|Meta Learning|[Link](HW15/HW15.pdf)|[TBD](HW15/homework15.ipynb)|x|x|9.2|
+|15|Meta Learning|[Link](HW15/HW15.pdf)|[Few-shot image classification](HW15/homework15.ipynb)|x|x|9.2|
 
 ## Note
 |Week|Topic|Link|Week|Topic|Link|
