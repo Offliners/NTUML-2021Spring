@@ -27,19 +27,19 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 ## Note
 |Week|Topic|Link|Week|Topic|Link|
 |-|-|-|-|-|-|
-|1|Introduction of ML/DL|[Link](https://offliners.github.io/post/ntuml-week1/)|8|BERT|[Link](https://offliners.github.io/post/ntuml-week8/)|
-|2|General Guidance|[Link](https://offliners.github.io/post/ntuml-week2-1/)|9|Midexam|x|
-|2|When Gradient Is Small: Local Minimum and Saddle Point|[Link](https://offliners.github.io/post/ntuml-week2-2/)|10|Auto-Encoder|[Link](https://offliners.github.io/post/ntuml-week10/)|
-|2|Tips for Training: Batch and Momentum|[Link](https://offliners.github.io/post/ntuml-week2-3/)|11|Adversarial Attack|[Link](https://offliners.github.io/post/ntuml-week11/)|
-|3|Tips for Training: Adaptive Learning Rate|[Link](https://offliners.github.io/post/ntuml-week3-1/)|12|Machine Learning and Privacy|`TBD`|
-|3|Loss Function: Classification|[Link](https://offliners.github.io/post/ntuml-week3-2/)|13|Explainable AI|[Link](https://offliners.github.io/post/ntuml-week13/)|
-|3|CNN|[Link](https://offliners.github.io/post/ntuml-week3-3/)|14|Domain Adaptation|[Link](https://offliners.github.io/post/ntuml-week14/)|
+|1|Introduction of ML/DL|[Link](https://offliners.github.io/2021/04/03/NTUML-week1/)|8|BERT|[Link](https://offliners.github.io/2021/04/21/NTUML-week8/)|
+|2|General Guidance|[Link](https://offliners.github.io/2021/04/03/NTUML-week2-1/)|9|Midexam|x|
+|2|When Gradient Is Small: Local Minimum and Saddle Point|[Link](https://offliners.github.io/2021/04/04/NTUML-week2-2/)|10|Auto-Encoder|[Link](https://offliners.github.io/2021/05/01/NTUML-week10/)|
+|2|Tips for Training: Batch and Momentum|[Link](https://offliners.github.io/2021/04/05/NTUML-week2-3/)|11|Adversarial Attack|[Link](https://offliners.github.io/2021/05/15/NTUML-week11/)|
+|3|Tips for Training: Adaptive Learning Rate|[Link](https://offliners.github.io/2021/04/06/NTUML-week3-1/)|12|Machine Learning and Privacy|`TBD`|
+|3|Loss Function: Classification|[Link](https://offliners.github.io/2021/04/06/NTUML-week3-2/)|13|Explainable AI|[Link](https://offliners.github.io/2021/05/15/NTUML-week13/)|
+|3|CNN|[Link](https://offliners.github.io/2021/04/08/NTUML-week3-3/)|14|Domain Adaptation|[Link](https://offliners.github.io/2021/05/24/NTUML-week14/)|
 |4|PAC Learning|`TBD`|15|Quantum Machine Learning|`TBD`|
-|5|Self-Attention|[Link](https://offliners.github.io/post/ntuml-week5-1/)|16|Reinforcement Learning|[Link](https://offliners.github.io/post/ntuml-week16/)|
-|5|Normalization|[Link](https://offliners.github.io/post/ntuml-week5-2/)|17|Life-long Learning|[Link](https://offliners.github.io/post/ntuml-week17-1/)|
-|6|Qingming Festival|x|17|Network Compression|[Link](https://offliners.github.io/post/ntuml-week17-2/)|
-|7|Transformer|[Link](https://offliners.github.io/post/ntuml-week7-1/)|18|Meta Learning|[Link](https://offliners.github.io/post/ntuml-week18/)|
-|7|GAN|[Link](https://offliners.github.io/post/ntuml-week7-2/)|-|-|-|
+|5|Self-Attention|[Link](https://offliners.github.io/2021/04/10/NTUML-week5-1/)|16|Reinforcement Learning|[Link](https://offliners.github.io/2021/06/11/NTUML-week16/)|
+|5|Normalization|[Link](https://offliners.github.io/2021/04/11/NTUML-week5-2/)|17|Life-long Learning|[Link](https://offliners.github.io/2021/06/19/NTUML-week17-1/)|
+|6|Qingming Festival|x|17|Network Compression|[Link](https://offliners.github.io/2021/06/19/NTUML-week17-2/)|
+|7|Transformer|[Link](https://offliners.github.io/2021/04/13/NTUML-week7-1/)|18|Meta Learning|`TBD`|
+|7|GAN|[Link](https://offliners.github.io/2021/04/15/NTUML-week7-2/)|-|-|-|
 
 ## Useful Tips
 ### Prevent Google Colab from disconnecting (valid utill 2021/06/25)
