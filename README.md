@@ -24,6 +24,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |14|Life-Long Learning|[Link](HW14/HW14.pdf)|[Permuted MNIST](HW14/homework14.ipynb)|x|x|8.8|
 |15|Meta Learning|[Link](HW15/HW15.pdf)|[Few-shot image classification](HW15/homework15.ipynb)|x|x|9.2|
 
+<!---
 ## Note
 |Week|Topic|Link|Week|Topic|Link|
 |-|-|-|-|-|-|
@@ -40,6 +41,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 |6|Qingming Festival|x|17|Network Compression|[Link](https://offliners.github.io/2021/06/19/NTUML-week17-2/)|
 |7|Transformer|[Link](https://offliners.github.io/2021/04/13/NTUML-week7-1/)|18|Meta Learning|`TBD`|
 |7|GAN|[Link](https://offliners.github.io/2021/04/15/NTUML-week7-2/)|-|-|-|
+-->
 
 ## Useful Tips
 ### Prevent Google Colab from disconnecting (valid utill 2021/06/25)
